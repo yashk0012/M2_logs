@@ -58,6 +58,7 @@ Not working:
 
 - FM Radio
 
+- Dual Sim
 
 Untested
 ----------
